@@ -27,7 +27,7 @@ export default function Home() {
           <div className="flex items-center space-x-2">
             <Image
               src="/logo.png"
-              alt="EasyStay Logo"
+              alt="ViVa Spaces Logo"
               width={120}
               height={120}
             />
@@ -68,7 +68,12 @@ export default function Home() {
 
         {/* Mobile Header */}
         <div className="md:hidden bg-[#f0e9dd] flex items-center justify-between px-6 py-4 shadow-md">
-          <Image src="/logo.png" alt="EasyStay Logo" width={80} height={80} />
+          <Image
+            src="/logo.png"
+            alt="ViVa Spaces Logo"
+            width={80}
+            height={80}
+          />
           <button onClick={toggleMenu} className="text-cyan-900">
             {isOpen ? (
               <XMarkIcon className="w-6 h-6" />
@@ -123,7 +128,7 @@ export default function Home() {
         {/* Hero */}
         <section className="text-center py-12 px-6">
           <h1 className="text-4xl md:text-6xl font-extrabold text-cyan-900 mb-4 leading-tight">
-            <span className="text-5xl">About</span> Vivaan Homes
+            <span className="text-5xl">About</span> ViVa Spaces
           </h1>
           <p className="text-lg md:text-xl text-cyan-900 max-w-2xl mx-auto font-medium">
             Comfort, Convenience, and Community – All in the Heart of Dubai.
@@ -145,7 +150,7 @@ export default function Home() {
             <div className="text-center md:text-left">
               <h2 className="text-5xl font-semibold mb-6">Our Story</h2>
               <p className="text-lg leading-relaxed">
-                Vivaan Houses was created with a vision to offer affordable,
+                ViVa Spaces was created with a vision to offer affordable,
                 hassle-free housing to students and working professionals in
                 Dubai. We understand the struggle of finding a clean, cozy space
                 with all the essentials — and that’s exactly what we provide.
@@ -160,7 +165,7 @@ export default function Home() {
         {/* Why Choose Us */}
         <section className="py-16 px-6">
           <h2 className="text-3xl text-cyan-900 font-semibold text-center mb-10">
-            Why Choose <b>Vivaan Spaces</b>?
+            Why Choose <b>ViVa Spaces</b>?
           </h2>
           <div className="grid md:grid-cols-3 gap-8 text-center max-w-6xl mx-auto">
             {/* Prime Location */}
@@ -318,7 +323,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="bg-[#f0e9dd] text-cyan-900 text-center py-6">
         <p>
-          &copy; {new Date().getFullYear()} <b>Vivaan Homes</b> · All rights
+          &copy; {new Date().getFullYear()} <b>ViVa Spaces</b> · All rights
           reserved
         </p>
       </footer>

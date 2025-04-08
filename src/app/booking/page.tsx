@@ -103,7 +103,7 @@ export default function RoomsPage() {
       {/* Hero Section */}
       <section className="text-center pt-24 pb-12 px-6">
         <h1 className="text-4xl md:text-6xl font-extrabold text-cyan-900 mb-4">
-          Book Your Stay with Vivaan Homes
+          Book Your Stay with ViVa Spaces
         </h1>
         <p className="text-lg md:text-xl text-cyan-900 max-w-2xl mx-auto font-medium">
           Comfortable, affordable, and fully equipped living spaces near Baniyas
@@ -211,7 +211,7 @@ export default function RoomsPage() {
       {/* Footer */}
       <footer className="text-cyan-900 text-center py-6">
         <p>
-          &copy; {new Date().getFullYear()} <b>Vivaan Homes</b> · All rights
+          &copy; {new Date().getFullYear()} <b>ViVa Spaces</b> · All rights
           reserved
         </p>
       </footer>

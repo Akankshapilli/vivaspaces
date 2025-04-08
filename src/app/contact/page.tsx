@@ -131,7 +131,7 @@ export default function RoomsPage() {
             <FaEnvelope className="text-xl mt-1" />
             <div>
               <h3 className="text-lg font-semibold">Email</h3>
-              <p>contact@Vivaanhomes.com</p>
+              <p>contact@vivaspaces.com</p>
             </div>
           </div>
         </div>
@@ -177,7 +177,7 @@ export default function RoomsPage() {
       {/* Footer */}
       <footer className="text-cyan-900 text-center py-6">
         <p>
-          &copy; {new Date().getFullYear()} <b>Vivaan Homes</b> · All rights
+          &copy; {new Date().getFullYear()} <b>ViVa Spaces</b> · All rights
           reserved
         </p>
       </footer>
