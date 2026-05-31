@@ -68,7 +68,7 @@ Open [http://localhost:3000](http://localhost:3000) to view locally.
 
 ## Screenshots
 
-> Visit the live site at **[viva-spaces.vercel.app](https://viva-spaces.vercel.app)** to experience the full design.
+> Visit the live site at **[vivaspaces.vercel.app](https://vivaspaces.vercel.app)** to experience the full design.
 
 ---
 
