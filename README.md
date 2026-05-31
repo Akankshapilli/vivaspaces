@@ -68,7 +68,7 @@ Open [http://localhost:3000](http://localhost:3000) to view locally.
 
 ## Screenshots
 
-> Screenshots and demo walkthrough available on request.
+> Visit the live site at vivs-spaces.vercel.app to experience the full design.
 
 ---
 
